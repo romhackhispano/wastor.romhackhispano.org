@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The World Ends With You</title>
+		<description>Discusión The World Ends With You</description>
+		<link>http://127.0.0.1/index.php/the-world-ends-with-you-nds</link>
+		<lastBuildDate>Thu, 04 Aug 2016 16:45:12 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="http://127.0.0.1/index.php/component/jcomments/feed/com_content/76" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Paskin009 dice:</title>
+			<link>http://127.0.0.1/index.php/the-world-ends-with-you-nds#comment-1</link>
+			<description><![CDATA[No sabía que estuviste en esto liado también!!! Gran trabajo ;-)]]></description>
+			<dc:creator>Paskin009</dc:creator>
+			<pubDate>Fri, 10 Aug 2012 10:27:29 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/the-world-ends-with-you-nds#comment-1</guid>
+		</item>
+	</channel>
+</rss>

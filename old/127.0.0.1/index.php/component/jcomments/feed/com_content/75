@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Chrono Trigger</title>
+		<description>Discusión Chrono Trigger</description>
+		<link>http://127.0.0.1/index.php/chrono-trigger-nds</link>
+		<lastBuildDate>Thu, 04 Aug 2016 16:45:05 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="http://127.0.0.1/index.php/component/jcomments/feed/com_content/75" rel="self" type="application/rss+xml" />
+		<item>
+			<title>davoker dice:</title>
+			<link>http://127.0.0.1/index.php/chrono-trigger-nds#comment-30</link>
+			<description><![CDATA[Toma compi, yo guardo todas las traducciones, no solo los "backups" traducidos, me gusta guardar los parches, tengo una buena coleccion xD ya puedes enlazarlo =) https://mega.co.nz/#!h0112CgZ!yGTMmAjrsvrsbRZqaNDJ4TS8_g36qySjuuBmWsfLaWY Van las 2 versiones del parche, la FIX y la normal, no recuerdo que era la FIX, creo que era para los que tenian problemas con algunas flashcard, creo jeje]]></description>
+			<dc:creator>davoker</dc:creator>
+			<pubDate>Tue, 29 Jul 2014 19:02:14 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/chrono-trigger-nds#comment-30</guid>
+		</item>
+		<item>
+			<title>los necesitooooo dice:</title>
+			<link>http://127.0.0.1/index.php/chrono-trigger-nds#comment-25</link>
+			<description><![CDATA[:eek:]]></description>
+			<dc:creator>los necesitooooo</dc:creator>
+			<pubDate>Fri, 01 Feb 2013 14:50:06 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/chrono-trigger-nds#comment-25</guid>
+		</item>
+	</channel>
+</rss>

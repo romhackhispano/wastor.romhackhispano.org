@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Crónica</title>
+		<description>Traducciones, comentarios y chucherías</description>
+		<link>http://127.0.0.1/index.php/cronica</link>
+		<lastBuildDate>Thu, 04 Aug 2016 16:45:13 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://127.0.0.1/index.php/cronica?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Riviera: The Promised Land [progresos]</title>
+			<link>http://127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos</link>
+			<guid isPermaLink="true">http://127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos</guid>
+			<description><![CDATA[<div class="feed-description"><p>{jcomments on}<img style="float: left;" alt="gameboyadvance" src="http://127.0.0.1/images/gameboyadvance.png" height="54" width="88" />&nbsp;Aprovecho para poner como noticia algo que ya figura en los foros de Romhackhispano, y es que empecé con este proyecto hace tiempo aunque influido un poco por numerosos mensajes para realizar la traducción del <em>Castlevania: Circle of the Moon&nbsp;</em>dejaron de lado este juego.</p>
+</div>]]></description>
+			<author>wastor00@gmail.com (Wastor)</author>
+			<category>Noticias</category>
+			<pubDate>Mon, 29 Oct 2012 12:17:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Summon Night: Swordcraft Story [primeros pasos]</title>
+			<link>http://127.0.0.1/index.php/cronica/80-summon-night-swordcraft-story-primeros-pasos</link>
+			<guid isPermaLink="true">http://127.0.0.1/index.php/cronica/80-summon-night-swordcraft-story-primeros-pasos</guid>
+			<description><![CDATA[<div class="feed-description"><p style="text-align: justify;">{jcomments on}<img style="float: left;" alt="gameboyadvance" src="http://127.0.0.1/images/gameboyadvance.png" height="54" width="88" />Os informo de un posible nuevo proyecto otra vez en la plataforma GBA, ahora mismo está en estado inicial, y eso que lo empecé a tantear hace más de un año y lo dejé aparcado porque no acababa de comprender el tema de los textos. Gracias a CUE (<a href="http://romxhack.esforos.com/" target="_blank">http://romxhack.esforos.com/</a>) &nbsp;pude descubrir nuevas cosas que me llevaron a programar un repunteador para estos ficheros editados de extensión PSI3.</p>
+</div>]]></description>
+			<author>wastor00@gmail.com (Wastor)</author>
+			<category>Noticias</category>
+			<pubDate>Mon, 29 Oct 2012 11:52:14 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

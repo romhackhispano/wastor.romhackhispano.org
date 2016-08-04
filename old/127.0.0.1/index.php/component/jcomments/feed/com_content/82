@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ninja Cop</title>
+		<description>Discusión Ninja Cop</description>
+		<link>http://127.0.0.1/index.php/menu-ninja-cop</link>
+		<lastBuildDate>Thu, 04 Aug 2016 16:45:02 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="http://127.0.0.1/index.php/component/jcomments/feed/com_content/82" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Wastor dice:</title>
+			<link>http://127.0.0.1/index.php/menu-ninja-cop#comment-32</link>
+			<description><![CDATA[ Perdona, copié y pegué el otro artículo y se me pasó enlazarlo bien, me di cuenta al editar unas cosas. Un saludo]]></description>
+			<dc:creator>Wastor</dc:creator>
+			<pubDate>Thu, 31 Jul 2014 15:37:57 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-ninja-cop#comment-32</guid>
+		</item>
+		<item>
+			<title>davoker dice:</title>
+			<link>http://127.0.0.1/index.php/menu-ninja-cop#comment-29</link>
+			<description><![CDATA[Enhorabuena, no me habia dado cuenta de tu traduccion, no conocia el juego, buena ocasion para probarlo *O*]]></description>
+			<dc:creator>davoker</dc:creator>
+			<pubDate>Tue, 29 Jul 2014 18:54:57 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-ninja-cop#comment-29</guid>
+		</item>
+		<item>
+			<title>Manic_69 dice:</title>
+			<link>http://127.0.0.1/index.php/menu-ninja-cop#comment-28</link>
+			<description><![CDATA[Muy buenas Wastor, sigo tus traducciones y colaboraciones desde hace tiempo un trabajo ejemplar, comentaba porque recientemente descubrí tu ático y al ver que esta traducción de un juego de GBA que me gusta bastante me emocioné. Pero mi sorpresa es que al darle al enlace al parche me envía al parche del castlevania aria of sorrow. ¿Podrias mirarlo? Gracias.]]></description>
+			<dc:creator>Manic_69</dc:creator>
+			<pubDate>Fri, 18 Jul 2014 09:16:35 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-ninja-cop#comment-28</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Summon Night: Swordcraft Story [primeros pasos]</title>
+		<description>Discusión Summon Night: Swordcraft Story [primeros pasos]</description>
+		<link>http://127.0.0.1/index.php/cronica/80-summon-night-swordcraft-story-primeros-pasos</link>
+		<lastBuildDate>Thu, 04 Aug 2016 16:45:20 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="http://127.0.0.1/index.php/component/jcomments/feed/com_content/80" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

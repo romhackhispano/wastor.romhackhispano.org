@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Castlevania: Aria of Sorrow</title>
+		<description>Discusión Castlevania: Aria of Sorrow</description>
+		<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow</link>
+		<lastBuildDate>Thu, 04 Aug 2016 16:44:55 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="http://127.0.0.1/index.php/component/jcomments/feed/com_content/71" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Johan dice:</title>
+			<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-26</link>
+			<description><![CDATA[:D Muchas gracias , esta muy bueno, sigue asi amigoo]]></description>
+			<dc:creator>Johan</dc:creator>
+			<pubDate>Sat, 24 Aug 2013 23:11:41 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-26</guid>
+		</item>
+		<item>
+			<title>juan mexico dice:</title>
+			<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-24</link>
+			<description><![CDATA[muchas gracias grande tu trabajo gracias :lol:]]></description>
+			<dc:creator>juan mexico</dc:creator>
+			<pubDate>Thu, 17 Jan 2013 20:04:24 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-24</guid>
+		</item>
+		<item>
+			<title>Wastor dice:</title>
+			<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-22</link>
+			<description><![CDATA[ La respuesta es muy sencilla: Debes usar la ROM con la numeración que digo y del grupo que la dumpeó que cito. Tan fácil como eso. Esa y sólo esa, da igual emulador o flashcart que te irá bien en ambos (más que nada porque nadie se me ha quejado en un año ;-) ) Saludos]]></description>
+			<dc:creator>Wastor</dc:creator>
+			<pubDate>Fri, 07 Sep 2012 10:24:29 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-22</guid>
+		</item>
+		<item>
+			<title>rykotxet dice:</title>
+			<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-20</link>
+			<description><![CDATA[Puedes obviar el mensaje anterior. La pantalla corrupta al poner el nombre me salía en el emulador, pero luego cuando lo he metido en el flashcart se veía correctamente :oops:]]></description>
+			<dc:creator>rykotxet</dc:creator>
+			<pubDate>Wed, 05 Sep 2012 19:27:40 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-20</guid>
+		</item>
+		<item>
+			<title>rykotxet dice:</title>
+			<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-19</link>
+			<description><![CDATA[Lo acabo de probar y aparentemente funciona, pero la pantalla de poner nombre a la partida me aparece corrupta. He usado el release de Eurasia, que por cierto lleva una intro/trainer de esas que aparecen al principio del juego; he probado dejando esa intro y quitándola con el GBATA, pero la cosa sigue igual. No sé si más adelante me dará más errores. ¿Cuál es exactamente el CRC o MD5 de la rom que debo usar para el parcheo?]]></description>
+			<dc:creator>rykotxet</dc:creator>
+			<pubDate>Wed, 05 Sep 2012 09:05:45 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-19</guid>
+		</item>
+		<item>
+			<title>rykotxet dice:</title>
+			<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-18</link>
+			<description><![CDATA[¡Grande Wastor! Precisamente ayer volví a enganchar con ganas mi Gameboy Micro y después de jugar por enésima vez al Metroid Fusion me preguntaba: ¿no habrá una traducción decente del Aria o Sorrow? Y aquí me ha traido Google. jeje. Da gusto conservar la consola y el flashcart para cosas tan agradables como ésta :lol: ¿Harás también la del Harmony of Dissonance? Gracias ;-)]]></description>
+			<dc:creator>rykotxet</dc:creator>
+			<pubDate>Wed, 05 Sep 2012 08:13:26 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-18</guid>
+		</item>
+		<item>
+			<title>Liquid dice:</title>
+			<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-11</link>
+			<description><![CDATA[Gran traducción wastor perfecta y la mejor que anda por la red!]]></description>
+			<dc:creator>Liquid</dc:creator>
+			<pubDate>Mon, 20 Aug 2012 12:01:09 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-11</guid>
+		</item>
+		<item>
+			<title>CUE dice:</title>
+			<link>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-10</link>
+			<description><![CDATA[Venag ahí, este "guastor" :lol:]]></description>
+			<dc:creator>CUE</dc:creator>
+			<pubDate>Mon, 20 Aug 2012 11:07:59 +0000</pubDate>
+			<guid>http://127.0.0.1/index.php/menu-castlevania-aria-of-sorrow#comment-10</guid>
+		</item>
+	</channel>
+</rss>

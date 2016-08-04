@@ -1,0 +1,55 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 04 Aug 2016 18:44:31 at http://127.0.0.1/index.php/from-the-abyss +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://127.0.0.1/index.php/from-the-abyss -O1 "C:\My Web Sites\wastor" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:45:18	Warning: 	See other for 127.0.0.1/index.php/component/jcomments/
+18:45:18	Warning: 	File has moved from 127.0.0.1/index.php/component/jcomments/ to http://127.0.0.1/index.php
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/laugh.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/lol.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/smile.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/wink.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cool.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/normal.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/whistling.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/redface.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/sad.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cry.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/surprised.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/confused.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/sick.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/shocked.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/sleeping.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/tongue.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/rolleyes.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/unsure.gif (from 127.0.0.1/index.php/from-the-abyss)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/templates/siteground-j16-36/images/top_menu_r_bg.png (from 127.0.0.1/templates/siteground-j16-36/css/template.css)
+18:45:18	Error: 	"Not Found" (404) at link 127.0.0.1/templates/siteground-j16-36/images/top_menu_l_bg.png (from 127.0.0.1/templates/siteground-j16-36/css/template.css)
+18:45:19	Error: 	"Not Found" (404) at link 127.0.0.1/templates/siteground-j16-36/images/search_bg.png (from 127.0.0.1/templates/siteground-j16-36/css/template.css)
+18:45:19	Error: 	"Not Found" (404) at link 127.0.0.1/templates/siteground-j16-36/images/arrow-2.png (from 127.0.0.1/templates/siteground-j16-36/css/template.css)
+18:45:19	Error: 	"Forbidden" (403) at link tiovictor.romhackhispano.org/wp-content/uploads/2011/11/TituloES.png (from 127.0.0.1/index.php/the-world-ends-with-you-nds)
+18:45:19	Error: 	"Forbidden" (403) at link tiovictor.romhackhispano.org/wp-content/uploads/2011/11/TWEWYEsp100_28_9149.png (from 127.0.0.1/index.php/the-world-ends-with-you-nds)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/laugh.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/lol.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/smile.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/wink.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/cool.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/normal.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/whistling.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/redface.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/sad.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/cry.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/surprised.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/confused.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/sick.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/shocked.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/sleeping.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/tongue.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/rolleyes.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+18:45:24	Error: 	"Not Found" (404) at link 127.0.0.1/index.php/cronica/unsure.gif (from 127.0.0.1/index.php/cronica/81-riviera-the-promised-land-progresos)
+
+HTTrack Website Copier/3.48-22 mirror complete in 53 seconds : 140 links scanned, 96 files written (1396351 bytes overall) [1102727 bytes received at 20806 bytes/sec], 561355 bytes transferred using HTTP compression in 31 files, ratio 29%, 3.8 requests per connection
+(42 errors, 2 warnings, 0 messages)
