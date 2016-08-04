@@ -1,0 +1,7 @@
+gba:
+  title: Gameboy Advance
+  icon: /img/gameboyadvance.png
+
+nds:
+  title: Nintendo DS
+  icon: /img/nintendods.png

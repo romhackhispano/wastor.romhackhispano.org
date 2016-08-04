@@ -2,39 +2,107 @@
 <html>
 
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description"
+          content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="stylesheet" href="{{ "
+    /css/main.css" | prepend: site.baseurl }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "
+    /feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+    <style type="text/css">
+        body {
+            background: white url('/img/page_bg.png') repeat-x;
+        }
+
+        a.descargar img {
+            background: url('/img/boton1.png');
+        }
+
+        a:hover.descargar img {
+            background: url('/img/boton2.png');
+        }
+        .column {
+            background:rgba(255,255,255,0.3);
+            border-radius: 8px;
+            padding: 16px;
+        }
+        .column.left {
+            width:200px;
+        }
+        .column.right {
+            width:auto;
+        }
+    </style>
+
 </head>
 
-  <body>
+<body>
 
-  <header class="site-header">
+<header class="site-header">
 
     <div class="wrapper">
 
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <img src="/img/header_bg.png" align="center" alt="El ático de Wastor" style="width:964px;height:302px;" />
     </div>
 
-  </header>
+</header>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+<div class="page-content">
+    <div class="wrapper">
+        <table style="width:100%;">
+            <tr>
+                <td valign="top" class="column left">
+                    <h3>Mis proyectos</h3>
+                    <ul>
+                        {% for page2 in site.pages %}
+                        {% if page2.type == 'myproject' %}
+                        <li><a href="{{ page2.permalink}}">{{ page2.title }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+
+                    <h3>Colaboraciones</h3>
+                    <ul>
+                        {% for page2 in site.pages %}
+                        {% if page2.type == 'collaboration' %}
+                        <li><a href="{{ page2.permalink}}">{{ page2.title }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+
+                    <h3>Contacto</h3>
+                    <ul>
+                        <li><a href="/correo-electronico">Correo electrónico</a></li>
+                        <li><a href="/otras-vias">Otras vías</a></li>
+                    </ul>
+
+                    <h3>Últimas noticias</h3>
+                    <ul>
+                        <li><a href="/cronicas">Crónicas</a></li>
+                        <!--
+                        <li>Otras vías</li>
+                        -->
+                    </ul>
+                </td>
+                <td valign="top" class="column center">
+                    {{ content }}
+                </td>
+            </tr>
+        </table>
     </div>
+</div>
 
-    <footer class="site-footer">
+<footer class="site-footer">
 
-    </footer>
+</footer>
 
-  </body>
+</body>
 
 </html>
