@@ -4,7 +4,7 @@ permalink: /castlevania-circle-of-the-moon/
 title: "Castlevania: Circle of the Moon"
 platform: gba
 type: myproject
-patcher: http://www.mediafire.com/?5dyaqsfwiinexvt
+patcher: http://www.mediafire.com/file/z5soahohr8x4dj1/
 screenshots:
 - /img/circle-of-the-moon/Moontrad1.png
 - /img/circle-of-the-moon/Moontrad3.png
