@@ -4,7 +4,7 @@ permalink: /ninja-cop/
 title: "Ninja Cop"
 platform: gba
 type: myproject
-patcher: http://www.mediafire.com/?ahp4vsih6p3n5ci
+patcher: http://www.mediafire.com/file/gd9wie645mx5x5k/
 screenshots:
 - /img/ninja-cop/NinjaCop_ESPpag1_zpsc91cb41d.png
 - /img/ninja-cop/NinjaCop_ESP2_zps90c30ffa.png
